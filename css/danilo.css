@@ -252,7 +252,7 @@ h2 {
 @media only screen and (max-width: 768px) {
 
     .content {
-        width: 500px !important;
+        width: 400px !important;
     }
 
     .header-links {
@@ -262,7 +262,7 @@ h2 {
 
     .header-links li {
         display: block !important;
-        float: right;
+        text-align: right;
         padding-bottom: 1em;
     }
 
