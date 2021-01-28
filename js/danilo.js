@@ -21,8 +21,8 @@ $("#bb-show").click(function() {
 
 $(".header-hamburger").click(function() {
     if ($(this).text() == "☰") {
-        $(this).text("✖");
-        $(".header-links").show();
+        $(this).text("☷");
+        $(".header-links").fadeIn();
     } else {
         $(this).text("☰");
         $(".header-links").hide();
