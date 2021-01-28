@@ -72,7 +72,7 @@ a:hover {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 0.5em;
+    padding: 0.8em 0.5em 0.5em 0.5em;
     color: #1E77E2;
     font-size: 32px;
 }
