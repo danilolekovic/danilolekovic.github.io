@@ -269,4 +269,8 @@ h2 {
     .header-hamburger {
         display: inline-block;
     }
+
+    .education .edu-date {
+        display: block !important;
+    }
 }
