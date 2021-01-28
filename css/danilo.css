@@ -283,6 +283,11 @@ h2 {
         display: block !important;
     }
 
+    .experience-date {
+        display: block !important;
+        padding-left: 0 !important;
+    }
+
     body {
         -moz-transform: scale(0.8, 0.8);
         zoom: 0.8;
