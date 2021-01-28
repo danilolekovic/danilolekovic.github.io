@@ -72,7 +72,7 @@ a:hover {
     position: absolute;
     top: 0;
     right: 0;
-    margin: 2em;
+    padding: 0.5em;
     color: #1E77E2;
     font-size: 32px;
 }
@@ -268,7 +268,11 @@ h2 {
     }
 
     .header-hamburger {
-        display: inline-block;
+        position: fixed;
+        z-index: 999;
+        top: 0;
+        right: 0;
+        display: block;
     }
 
     .header-hamburger:hover {
