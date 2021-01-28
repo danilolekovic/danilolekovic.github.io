@@ -67,6 +67,20 @@ a:hover {
     font-family: 'Inconsolata', monospace;
 }
 
+.header-hamburger {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 2em;
+    color: #1E77E2;
+    font-size: 24px;
+}
+
+.header-hamburger:hover {
+    text-decoration: none;
+}
+
 h2 {
     font-size: 19px;
     font-family: 'Merriweather', serif;
@@ -231,4 +245,28 @@ h2 {
 
 #education {
     margin-bottom: 2em;
+}
+
+/* Mobile */
+
+@media only screen and (max-width: 768px) {
+
+    .content {
+        width: 500px !important;
+    }
+
+    .header-links {
+        display: none;
+        margin-bottom: 2em;
+    }
+
+    .header-links li {
+        display: block !important;
+        float: right;
+        padding-bottom: 1em;
+    }
+
+    .header-hamburger {
+        display: inline-block;
+    }
 }

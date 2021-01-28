@@ -18,3 +18,13 @@ $("#bb-show").click(function() {
     $(".experience-active").removeClass("experience-active");
     $("#best-buy").addClass("experience-active");
 });
+
+$(".header-hamburger").click(function() {
+    if ($(this).text() == "☰") {
+        $(this).text("✖");
+        $(".header-links").show();
+    } else {
+        $(this).text("☰");
+        $(".header-links").hide();
+    }
+});
