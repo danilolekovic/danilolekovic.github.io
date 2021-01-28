@@ -221,6 +221,10 @@ h2 {
     color: #3572A5;
 }
 
+.project .lang-c {
+    color: #555555;
+}
+
 #education h3 {
     color: #000000;
     font-size: 16px;

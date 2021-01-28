@@ -1,3 +1,5 @@
+// Buttons
+
 $("#canalyst-show").click(function() {
     $(".exerience-label-active").removeClass("exerience-label-active");
     $("#canalyst-show").addClass("exerience-label-active");
@@ -26,5 +28,28 @@ $(".header-hamburger").click(function() {
     } else {
         $(this).text("☰");
         $(".header-links").hide();
+    }
+});
+
+// Stars
+
+$.get("https://api.github.com/users/danilolekovic/repos", function(data) {
+    console.log(data);
+    for (repo in data) {
+        if (data[repo]["name"] == "iode") {
+            $(".iode-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "echo") {
+            $(".echo-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "Butler") {
+            $(".butler-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "kite") {
+            $(".kite-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "iode") {
+            $(".iode-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "COVID-Twitter-Bot") {
+            $(".covid-stars").text("★ " + data[repo]["stargazers_count"]);
+        } else if (data[repo]["name"] == "pitfall") {
+            $(".pitfall-stars").text("★ " + data[repo]["stargazers_count"]);
+        }
     }
 });
