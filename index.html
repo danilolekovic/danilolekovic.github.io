@@ -49,9 +49,9 @@
                 <h2>Industry Experience</h2>
                 <div class="experience-container">
                     <ul class="experience-select flex-child">
-                        <li class="exerience-label-active"><a href="#">Canalyst</a></li>
-                        <li><a href="#">IPS</a href="#"></li>
-                        <li><a href="#">Best Buy</a href="#"></li>
+                        <li class="exerience-label-active" id="canalyst-show"><a href="#">Canalyst</a></li>
+                        <li id="ips-show"><a href="#">IPS</a href="#"></li>
+                        <li id="bb-show"><a href="#">Best Buy</a href="#"></li>
                     </ul>
 
                     <div class="experience-description flex-child">
@@ -70,23 +70,29 @@
                         </div>
                         
                         <div id="ips" class="experience-box">
-                            <h3>Software Engineer Intern @ International Parcel Service, Ltd.</h3>
-                            <p>Nov 2018 - Feb 2019</p>
-                            <p>
-                                ▹ Led the design and development of a data transformation solution using Microsoft Excel and VBA
-                                ▹ Developed macros for converting spreadsheet data into a shipment software format
-                                ▹ Designed an error-handling system that reported incorrect and invalid input, saving time for
-                                clients
+                            <h3>
+                                <span class="experience-pos">Software Engineer Intern</span> <span class="experience-name">@ IPS</span>
+                            </h3>
+                            <p class="experience-date">Nov 2018 - Feb 2019</p>
+                            <p class="experience-info">
+                                Led the design and development of a data transformation solution using Microsoft Excel and VBA.
+                                <br><br>
+                                Designed an error-handling system that reported incorrect and invalid input, saving time for
+                            clients.
                             </p>
                         </div>
                         
                         <div id="best-buy" class="experience-box">
-                            <h3>Connected Solutions Specialist @ Best Buy Canada</h3>
-                            <p>Mar 2017 - Jun 2019</p>
-                            <p>
-                                ▹ Maintained current knowledge of new technological trends in the work area
-                                ▹ Worked on setup, repair, and data recovery of client devices
-                                ▹ Helped store achieve first place in customer satisfaction in a district of 20+ stores
+                            <h3>
+                                <span class="experience-pos">Connected Solutions</span> <span class="experience-name">@ Best Buy</span>
+                            </h3>
+                            <p class="experience-date">Mar 2017 - Jun 2019</p>
+                            <p class="experience-info">
+                                Maintained current knowledge of new technological trends in the work area.
+                                <br><br>
+                                Worked on setup, repair, and data recovery of client devices.
+                                <br><br>
+                                Helped store achieve first place in customer satisfaction in a district of 20+ stores.
                             </p>
                         </div>
                     </div>
@@ -206,6 +212,8 @@
             </div>
         </div>
         
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+            integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
         <script src="./js/danilo.js"></script>
     </body>
 </html>
