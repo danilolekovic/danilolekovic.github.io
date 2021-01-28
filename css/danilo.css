@@ -236,12 +236,8 @@ h2 {
     font-style: italic;
 }
 
-#education ul {
-    list-style-type: none;
-}
-
-#education ul li {
-    font-size: 15px;
+#education p {
+    font-size: 14px;
 }
 
 #education {
