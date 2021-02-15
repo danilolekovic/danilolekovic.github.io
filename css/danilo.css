@@ -239,12 +239,15 @@ h2 {
 }
 
 #education .edu-date {
-    padding-top: 0;
-    margin-top: 0;
+    float: right;
     font-family: 'Courier Prime', monospace;
     font-size: 12px;
     color: #606A86;
     font-style: italic;
+}
+
+#education .edu-desc {
+    margin-left: 1em;
 }
 
 #education p {
