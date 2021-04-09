@@ -258,6 +258,10 @@ h2 {
     margin-bottom: 2em;
 }
 
+#simon-fraser, #bloomberg {
+    padding-left: 1em;
+}
+
 footer {
     font-size: 14px;
     text-align: center;
