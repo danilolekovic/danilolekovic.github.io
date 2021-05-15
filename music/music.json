@@ -1,0 +1,1116 @@
+{
+  "songs": [
+    {
+      "Track name": "Hotel California",
+      "Artist name": "Eagles",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+    },
+    {
+      "Track name": "Piano Man",
+      "Artist name": "Billy Joel",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/98/Billy_Joel_Piano_Man_single.jpg"
+    },
+    {
+      "Track name": "Don't Stop Me Now",
+      "Artist name": "Queen",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/97/Queen-dont-stop-me-now-1979-6-s.jpg"
+    },
+    {
+      "Track name": "Here Comes the Sun (Live)",
+      "Artist name": "George Harrison",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/41/Thebeatles_here_comes_the_sun.jpg"
+    },
+    {
+      "Track name": "Just the Way You Are",
+      "Artist name": "Billy Joel",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Just_the_Way_You_Are_-_Billy_Joel.jpg/220px-Just_the_Way_You_Are_-_Billy_Joel.jpg"
+    },
+    {
+      "Track name": "Another Brick In the Wall, Pt. 2",
+      "Artist name": "Pink Floyd",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/cb/PinkFloydAnotherBrickCover.jpg"
+    },
+    {
+      "Track name": "Rock 'N' Roll Suicide (2012 Remastered Version)",
+      "Artist name": "David Bowie",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/e/e1/Bowie_RockNRollSuicide.jpg"
+    },
+    {
+      "Track name": "Another One Bites the Dust",
+      "Artist name": "Queen",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/4d/Another_one_bites_the_dust.jpg"
+    },
+    {
+      "Track name": "You Give Love a Bad Name",
+      "Artist name": "Bon Jovi",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b4/YouGiveLoveABadName.jpg"
+    },
+    {
+      "Track name": "Thriller",
+      "Artist name": "Michael Jackson",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png"
+    },
+    {
+      "Track name": "Highway Star (2012 Remastered Version)",
+      "Artist name": "Deep Purple",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/13/Highway_Star-Lazy.png"
+    },
+    {
+      "Track name": "Black Or White (Single Version)",
+      "Artist name": "Michael Jackson",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/48/Michael_Jackson_-_Black_or_White.png"
+    },
+    {
+      "Track name": "I Was Made for Lovin' You",
+      "Artist name": "Kiss",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/28/KISSIWasMadeForLovinYouFrench7InchSingleCover.jpg"
+    },
+    {
+      "Track name": "Back In Black",
+      "Artist name": "AC/DC",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ACDC_Back_in_Black_Single_Cover.jpg/220px-ACDC_Back_in_Black_Single_Cover.jpg"
+    },
+    {
+      "Track name": "Imagine",
+      "Artist name": "John Lennon",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2a/Lennon_Imagine_Sleeve_1975.jpg"
+    },
+    {
+      "Track name": "You're the One That I Want (From “Grease” Soundtrack)",
+      "Artist name": "John Travolta & Olivia Newton-John",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/ac/GreaseYoureTheOneThatIWant7InchSingleCover.jpg"
+    },
+    {
+      "Track name": "Welcome to the Jungle",
+      "Artist name": "Guns N' Roses",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d6/Welcometothejungle.jpg"
+    },
+    {
+      "Track name": "Hello",
+      "Artist name": "Lionel Richie",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/9e/Lionel_Richie_Hello.jpg"
+    },
+    {
+      "Track name": "I Want to Break Free",
+      "Artist name": "Queen",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/I_Want_To_Break_Free.jpg/250px-I_Want_To_Break_Free.jpg"
+    },
+    {
+      "Track name": "Footloose",
+      "Artist name": "Kenny Loggins",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/0/0c/KennyLooginsFootlooseSingle.jpg"
+    },
+    {
+      "Track name": "Sweet Child O' Mine",
+      "Artist name": "Guns N' Roses",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/15/Guns_N%27_Roses_-_Sweet_Child_o%27_Mine.png"
+    },
+    {
+      "Track name": "Under Pressure (feat. David Bowie)",
+      "Artist name": "Queen",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Queen_%26_David_Bowie_-_Under_Pressure.jpeg/1200px-Queen_%26_David_Bowie_-_Under_Pressure.jpeg"
+    },
+    {
+      "Track name": "What Is Love (7\" Mix)",
+      "Artist name": "Haddaway",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/a8/HaddawayWhatIsLoveMaxiCDCover.jpg"
+    },
+    {
+      "Track name": "Let It Be",
+      "Artist name": "The Beatles",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg"
+    },
+    {
+      "Track name": "Hey Jude (Live)",
+      "Artist name": "Paul McCartney",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hey_Jude_by_The_Beatles_%28Vinyl-1988%29.jpg/250px-Hey_Jude_by_The_Beatles_%28Vinyl-1988%29.jpg"
+    },
+    {
+      "Track name": "Otherside",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/c9/Red_hot_chili_peppers_otherside.jpg"
+    },
+    {
+      "Track name": "Surfin' U.S.A.",
+      "Artist name": "The Beach Boys",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/cd/Beach_boys_surfin%27_usa.PNG"
+    },
+    {
+      "Track name": "I Want You Back",
+      "Artist name": "Jackson 5",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/96/Iwantyoubacksingle.jpg"
+    },
+    {
+      "Track name": "Come and Get Your Love (Single Edit)",
+      "Artist name": "Redbone",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/f0/Come_and_Get_Your_Love_-_Redbone.jpeg"
+    },
+    {
+      "Track name": "Copacabana",
+      "Artist name": "Barry Manilow",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/da/BarryManilowCopacabana7InchSingleCover.jpg"
+    },
+    {
+      "Track name": "Happy Xmas (War Is Over) [feat. The Harlem Community Choir]",
+      "Artist name": "John Lennon & The Plastic Ono Band",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/a9/Happy_Xmas_%28War_is_Over%29.jpg"
+    },
+    {
+      "Track name": "Paradise City",
+      "Artist name": "Guns N' Roses",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2c/Paradisecity.jpg"
+    },
+    {
+      "Track name": "Knockin' On Heaven's Door",
+      "Artist name": "Guns N' Roses",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/GNR_Heaven.jpg/220px-GNR_Heaven.jpg"
+    },
+    {
+      "Track name": "The Unforgiven",
+      "Artist name": "Metallica",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"
+    },
+    {
+      "Track name": "The Unforgiven III",
+      "Artist name": "Metallica",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"
+    },
+    {
+      "Track name": "Smoke On the Water",
+      "Artist name": "Deep Purple",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/ae/Smoke_on_the_Water_cover.jpg"
+    },
+    {
+      "Track name": "Roxanne (Remastered 2003)",
+      "Artist name": "The Police",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/f9/Roxanne_-_The_Police_%28Original_UK_Release%29.jpg"
+    },
+    {
+      "Track name": "Paint It Black",
+      "Artist name": "The Rolling Stones",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Paintitblack.jpg/220px-Paintitblack.jpg"
+    },
+    {
+      "Track name": "Come Together",
+      "Artist name": "The Beatles",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8c/Come_Together-Something_%28single_cover%29.jpg"
+    },
+    {
+      "Track name": "Because",
+      "Artist name": "The Beatles",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Meet_the_Beatles.jpg/220px-Meet_the_Beatles.jpg"
+    },
+    {
+      "Track name": "Ob-La-Di, Ob-La-Da (Esher Demo)",
+      "Artist name": "The Beatles",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Ob_la_di_Ob_la_da_single_cover.jpg/220px-Ob_la_di_Ob_la_da_single_cover.jpg"
+    },
+    {
+      "Track name": "Johnny B. Goode (Single Version)",
+      "Artist name": "Chuck Berry",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Chuck_berry_-_johnny_b_goode_-_record_label.jpg/220px-Chuck_berry_-_johnny_b_goode_-_record_label.jpg"
+    },
+    {
+      "Track name": "Snow (Hey Oh)",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Rhcpsnowheyoh.jpg/220px-Rhcpsnowheyoh.jpg"
+    },
+    {
+      "Track name": "A Horse With No Name",
+      "Artist name": "America",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/89/AmericaHorseWithNoNameCover.jpg"
+    },
+    {
+      "Track name": "Pretty Thing",
+      "Artist name": "Bo Diddley",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Pretty_Thing_Bo_Diddley.jpg/220px-Pretty_Thing_Bo_Diddley.jpg"
+    },
+    {
+      "Track name": "Can't Stop",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8e/RedHotChiliPeppersCantStop.jpg"
+    },
+    {
+      "Track name": "Dani California",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d6/Dani_california.gif"
+    },
+    {
+      "Track name": "Down Under",
+      "Artist name": "Men At Work",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/a1/Down_under_men_at_work_australia_single.jpg"
+    },
+    {
+      "Track name": "What You Won't Do for Love",
+      "Artist name": "Bobby Caldwell",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/0/0b/What_You_Won%27t_Do_for_Love_by_Bobby_Caldwell_heart-shaped_US_vinyl.jpg"
+    },
+    {
+      "Track name": "Smokestack Lightning",
+      "Artist name": "Howlin' Wolf",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Smoke_Stack_Lightning_single_cover.jpg/220px-Smoke_Stack_Lightning_single_cover.jpg"
+    },
+    {
+      "Track name": "Road Runner (Single Version)",
+      "Artist name": "Bo Diddley",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/17/Bodiddley_single_song.jpg"
+    },
+    {
+      "Track name": "Catch Yer Own Train",
+      "Artist name": "The Silver Seas",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d3/TheSilverSeas_HighSociety_cover.jpg"
+    },
+    {
+      "Track name": "Africa",
+      "Artist name": "Toto",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/1f/Toto_-_Africa.jpg"
+    },
+    {
+      "Track name": "Sweet Dreams (Are Made of This)",
+      "Artist name": "Eurythmics",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/0/00/Eurythmics_SDAMOT.jpg"
+    },
+    {
+      "Track name": "Maniac",
+      "Artist name": "Michael Sembello",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/cf/Maniac_by_Michael_Sembello_U.S._vinyl_Side-A_7-inch.jpg"
+    },
+    {
+      "Track name": "I'm Still Standing",
+      "Artist name": "Elton John",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/6/69/Elton_John_StillStanding.jpg"
+    },
+    {
+      "Track name": "Gimme Shelter",
+      "Artist name": "The Rolling Stones",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Gimme_Shelter_Rolling_Stones.jpg/220px-Gimme_Shelter_Rolling_Stones.jpg"
+    },
+    {
+      "Track name": "Girl, You'll Be a Woman Soon (Single Version)",
+      "Artist name": "Neil Diamond",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/9c/Girl%2C_You%27ll_Be_a_Woman_Soon_cover.jpg"
+    },
+    {
+      "Track name": "The House of the Rising Sun",
+      "Artist name": "The Animals",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/The_House_of_the_Rising_Sun_Frijid.png/220px-The_House_of_the_Rising_Sun_Frijid.png"
+    },
+    {
+      "Track name": "Everybody Loves Somebody",
+      "Artist name": "Dean Martin",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/5/5b/Dean_Martin_Everybody_Loves_Somebody_Single.jpg"
+    },
+    {
+      "Track name": "There Goes My Baby",
+      "Artist name": "The Drifters",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/5/51/There_Goes_My_Baby_by_The_Drifters_US_7-inch_45_RPM_Side-A.png"
+    },
+    {
+      "Track name": "Leader of the Pack",
+      "Artist name": "The Shangri-Las",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/0/02/Leader_of_the_Pack_%28album%29.jpeg"
+    },
+    {
+      "Track name": "Under the Bridge",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/41/UndertheBridge.jpg"
+    },
+    {
+      "Track name": "Where Is My Mind?",
+      "Artist name": "Pixies",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8b/Where_Is_My_Mind%3F_A_Tribute_To_The_Pixies_%28album_cover%29.jpg"
+    },
+    {
+      "Track name": "Ramblin' Gamblin' Man",
+      "Artist name": "The Bob Seger System",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d6/Ramblin%27_Gamblin%27_Man.jpg"
+    },
+    {
+      "Track name": "Hush",
+      "Artist name": "Deep Purple",
+      "Album": "Shades of Deep Purple (Deluxe Edition)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Deeppurplehushps.jpg/220px-Deeppurplehushps.jpg"
+    },
+    {
+      "Track name": "Jenny Take a Ride",
+      "Artist name": "Mitch Ryder & The Detroit Wheels",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://static.wikia.nocookie.net/americandreams/images/f/fb/Jenny_Take_a_Ride.jpg/revision/latest?cb=20171031230845"
+    },
+    {
+      "Track name": "Kentucky Woman",
+      "Artist name": "Deep Purple",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Kentucky_Woman.png/220px-Kentucky_Woman.png"
+    },
+    {
+      "Track name": "The Circle Game",
+      "Artist name": "Buffy Sainte-Marie",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Best_of_Buffy_Sainte-Marie.jpeg"
+    },
+    {
+      "Track name": "Mrs. Robinson",
+      "Artist name": "Simon & Garfunkel",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mrs._Robinson.jpg/220px-Mrs._Robinson.jpg"
+    },
+    {
+      "Track name": "Treat Her Right",
+      "Artist name": "Roy Head & The Traits",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/48/SB_-_Treat_Her_Right_cd_single.jpg"
+    },
+    {
+      "Track name": "Psycho Killer",
+      "Artist name": "Talking Heads",
+      "Album": "Once Upon a Time in Vancouver",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/dc/Talking_heads_psycho_killer_USA_vinyl.jpg"
+    },
+    {
+      "Track name": "Remember (Walkin' In the Sand)",
+      "Artist name": "The Shangri-Las",
+      "Album": "The Best of the Shangri-las",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Leader_of_the_Pack_%28album%29.jpeg/220px-Leader_of_the_Pack_%28album%29.jpeg"
+    },
+    {
+      "Track name": "Give Him a Great Big Kiss",
+      "Artist name": "The Shangri-Las",
+      "Album": "20th Century Masters - The Millennium Collection: The Best of The Shangri-Las",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/0/02/Leader_of_the_Pack_%28album%29.jpeg"
+    },
+    {
+      "Track name": "Lithium",
+      "Artist name": "Nirvana",
+      "Album": "Nevermind",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/NirvanaNevermindalbumcover.jpg/220px-NirvanaNevermindalbumcover.jpg"
+    },
+    {
+      "Track name": "Army of Me",
+      "Artist name": "Björk",
+      "Album": "Post",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b2/BjorkArmyOfMeUKCD1.jpeg"
+    },
+    {
+      "Track name": "Human Behaviour",
+      "Artist name": "Björk",
+      "Album": "Debut",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Bj%C3%B6rk-Debut-1993.png"
+    },
+    {
+      "Track name": "Love & Hate",
+      "Artist name": "Michael Kiwanuka",
+      "Album": "Love & Hate",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/9/96/Michael_Kiwanuka_-_Love_%26_Hate.jpg"
+    },
+    {
+      "Track name": "When I Look into Your Eyes",
+      "Artist name": "Drenge",
+      "Album": "Strange Creatures",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://i1.sndcdn.com/artworks-kEk0DtgYbwSZ-0-t500x500.jpg"
+    },
+    {
+      "Track name": "You Never Can Tell (1964 Single Version)",
+      "Artist name": "Chuck Berry",
+      "Album": "The Chess Box",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/22/You_Never_Can_Tell_-_Chuck_Berry.jpg"
+    },
+    {
+      "Track name": "Don't Go Breaking My Heart",
+      "Artist name": "Elton John & Kiki Dee",
+      "Album": "To Be Continued (Box Set)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/e/ec/Don%27t_Go_Breaking_My_Heart_Single.jpeg"
+    },
+    {
+      "Track name": "Say Say Say",
+      "Artist name": "Paul McCartney & Michael Jackson",
+      "Album": "All the Best",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/74/Say_Say_Say_%28album_cover_art%29.jpg"
+    },
+    {
+      "Track name": "Give It Away",
+      "Artist name": "Red Hot Chili Peppers",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/83/Give_It_Away_Single_Cover.jpg"
+    },
+    {
+      "Track name": "I Feel Free",
+      "Artist name": "Cream",
+      "Album": "The Very Best of Cream",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b0/IFeelFreecover.jpg"
+    },
+    {
+      "Track name": "Partyman",
+      "Artist name": "Prince",
+      "Album": "Batman",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2a/Prince_Partyman.jpg"
+    },
+    {
+      "Track name": "Teardrop",
+      "Artist name": "José González",
+      "Album": "In Our Nature",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://i1.sndcdn.com/artworks-O9yroKYR6IrO-0-t500x500.jpg"
+    },
+    {
+      "Track name": "Lithium",
+      "Artist name": "The Polyphonic Spree",
+      "Album": "Wait - EP",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/13/Wait_polyphonic_spree.jpg"
+    },
+    {
+      "Track name": "They Don't Care About Us",
+      "Artist name": "Michael Jackson",
+      "Album": "HIStory: Past, Present and Future, Book I",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d5/Mjtdcau.jpg"
+    },
+    {
+      "Track name": "Carry That Weight",
+      "Artist name": "The Beatles",
+      "Album": "Abbey Road (Remastered)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/c8/Golden_slumber_sheet_music.PNG"
+    },
+    {
+      "Track name": "Radar Love",
+      "Artist name": "Golden Earring",
+      "Album": "Moontan",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/82/Radar_love.jpg"
+    },
+    {
+      "Track name": "In My Life",
+      "Artist name": "The Beatles",
+      "Album": "Rubber Soul",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/c8/Golden_slumber_sheet_music.PNG"
+    },
+    {
+      "Track name": "Rock & Roll Band",
+      "Artist name": "Boston",
+      "Album": "Boston",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/23/BostonBoston.jpg"
+    },
+    {
+      "Track name": "Handle With Care",
+      "Artist name": "The Traveling Wilburys",
+      "Album": "The Traveling Wilburys, Vol. 1",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/TravWilb1Cover.jpg/220px-TravWilb1Cover.jpg"
+    },
+    {
+      "Track name": "Ohio",
+      "Artist name": "Neil Young & Crosby, Stills, Nash & Young",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/f8/OhioSingle.jpg"
+    },
+    {
+      "Track name": "Photograph",
+      "Artist name": "Ringo Starr",
+      "Album": "Ringo (Bonus Track Version)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/d3/Ringo_starr_photo.jpg"
+    },
+    {
+      "Track name": "She Came In Through the Bathroom Window",
+      "Artist name": "The Beatles",
+      "Album": "Abbey Road (Remastered)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/c/c2/Beatles-she-came-in-through-the-bathroom-window.jpg"
+    },
+    {
+      "Track name": "Something In the Way",
+      "Artist name": "Nirvana",
+      "Album": "Nevermind",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nirvana_album_cover.svg/2000px-Nirvana_album_cover.svg.png"
+    },
+    {
+      "Track name": "California Dreamin' (Single)",
+      "Artist name": "The Mamas & The Papas",
+      "Album": "If You Can Believe Your Eyes and Ears",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/California_Dreamin%27_Beach_Boys.jpg/220px-California_Dreamin%27_Beach_Boys.jpg"
+    },
+    {
+      "Track name": "It Don't Come Easy",
+      "Artist name": "Ringo Starr",
+      "Album": "Photograph: The Very Best of Ringo Starr",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/29/It_Don%27t_Come_Easy_%28Ringo_Starr_single_-_cover_art%29.jpg"
+    },
+    {
+      "Track name": "God Smack",
+      "Artist name": "Alice In Chains",
+      "Album": "Dirt",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Dirt_%28Alice_in_Chains_album_-_cover_art%29.jpg/220px-Dirt_%28Alice_in_Chains_album_-_cover_art%29.jpg"
+    },
+    {
+      "Track name": "Rooster",
+      "Artist name": "Alice In Chains",
+      "Album": "Dirt",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Dirt_%28Alice_in_Chains_album_-_cover_art%29.jpg/220px-Dirt_%28Alice_in_Chains_album_-_cover_art%29.jpg"
+    },
+    {
+      "Track name": "Yellow Ledbetter",
+      "Artist name": "Pearl Jam",
+      "Album": "Jeremy - Single",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Pearl_Jam_Jeremy.jpg/220px-Pearl_Jam_Jeremy.jpg"
+    },
+    {
+      "Track name": "Stay Away",
+      "Artist name": "Nirvana",
+      "Album": "Nevermind",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://static.wikia.nocookie.net/nirvana/images/3/3f/Nevermind.jpg/revision/latest/scale-to-width-down/220?cb=20101224055911"
+    },
+    {
+      "Track name": "Dumb (2013 Mix)",
+      "Artist name": "Nirvana",
+      "Album": "In Utero",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://static.wikia.nocookie.net/nirvana/images/3/3f/Nevermind.jpg/revision/latest/scale-to-width-down/220?cb=20101224055911"
+    },
+    {
+      "Track name": "Lithium (Live & Loud)",
+      "Artist name": "Nirvana",
+      "Album": "In Utero",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://static.wikia.nocookie.net/nirvana/images/3/3f/Nevermind.jpg/revision/latest/scale-to-width-down/220?cb=20101224055911"
+    },
+    {
+      "Track name": "Breaking the Law",
+      "Artist name": "Judas Priest",
+      "Album": "British Steel (Bonus Track Version)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/78/Breaking_The_Law.jpg"
+    },
+    {
+      "Track name": "Wonderboy",
+      "Artist name": "Tenacious D",
+      "Album": "Tenacious D",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/f1/TenaciousD_Wonderboy.jpg"
+    },
+    {
+      "Track name": "Crazy On You",
+      "Artist name": "Heart",
+      "Album": "Dreamboat Annie",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/5/5a/Crazy_on_You_-_Heart.jpg"
+    },
+    {
+      "Track name": "Cherry Bomb",
+      "Artist name": "The Runaways",
+      "Album": "The Runaways",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8a/Cherry_Bomb_%28cover%29.jpg"
+    },
+    {
+      "Track name": "Cheap and Cheerful",
+      "Artist name": "The Kills",
+      "Album": "Midnight Boom",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8c/Kills_album.jpg"
+    },
+    {
+      "Track name": "Welcome to Paradise",
+      "Artist name": "Green Day",
+      "Album": "Dookie",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/73/Green_Day_-_Welcome_to_Paradise_cover.jpg"
+    },
+    {
+      "Track name": "The Hardest Button to Button",
+      "Artist name": "The White Stripes",
+      "Album": "Elephant",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/f6/Hardestbuttoncover.gif"
+    },
+    {
+      "Track name": "Reptilia",
+      "Artist name": "The Strokes",
+      "Album": "Room On Fire",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/81/The_Strokes_-_Reptilia_-_CD_single_cover.jpg"
+    },
+    {
+      "Track name": "A Soulful Shade of Blue",
+      "Artist name": "Buffy Sainte-Marie",
+      "Album": "I'm Gonna Be a Country Girl Again",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/6/6f/I%27m_Gonna_Be_a_Country_Girl_Again.jpg"
+    },
+    {
+      "Track name": "I Have Dreamed",
+      "Artist name": "Frank Sinatra",
+      "Album": "Ultimate Sinatra: The Centennial Collection",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Sinatrassinatra.jpg/220px-Sinatrassinatra.jpg"
+    },
+    {
+      "Track name": "Till There Was You",
+      "Artist name": "The Beatles",
+      "Album": "With The Beatles",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://www.the-paulmccartney-project.com/_images/artworks/with-the-beatles/01_big.jpg"
+    },
+    {
+      "Track name": "Time In a Bottle",
+      "Artist name": "Jim Croce",
+      "Album": "The Definitive Croce",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/4/4d/Time_in_a_Bottle.jpg"
+    },
+    {
+      "Track name": "The Circle Game",
+      "Artist name": "Joni Mitchell",
+      "Album": "Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Joni_Archives_Vol_%21.jpg/220px-Joni_Archives_Vol_%21.jpg"
+    },
+    {
+      "Track name": "Kashmir",
+      "Artist name": "Led Zeppelin",
+      "Album": "Mothership (Remastered)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/1/1e/Kashmir_The_Symphonic_Led_Zeppelin_cover.jpg"
+    },
+    {
+      "Track name": "Stairway to Heaven",
+      "Artist name": "Led Zeppelin",
+      "Album": "The Complete Studio Albums",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Stairway_to_Heaven_by_Led_Zeppelin_US_promotional_single.png"
+    },
+    {
+      "Track name": "Old Man",
+      "Artist name": "Neil Young",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/f/fe/Old_Man_%28Neil_Young_single_-_cover_art%29.jpg"
+    },
+    {
+      "Track name": "Heart of Gold",
+      "Artist name": "Neil Young",
+      "Album": "Harvest",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/3/31/Heart_of_Gold_by_Neal_Yound_single_cover.jpg"
+    },
+    {
+      "Track name": "My Cherie Amour",
+      "Artist name": "Stevie Wonder",
+      "Album": "My Cherie Amour",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8b/Mycherieamour.jpg"
+    },
+    {
+      "Track name": "No Excuses",
+      "Artist name": "Alice In Chains",
+      "Album": "Jar of Flies - EP",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/2d/Alice_in_chains_no_excuses.png"
+    },
+    {
+      "Track name": "Man In the Box",
+      "Artist name": "Alice In Chains",
+      "Album": "Facelift",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/2/24/Alice_in_Chains_%28album%29.jpg"
+    },
+    {
+      "Track name": "Would?",
+      "Artist name": "Alice In Chains",
+      "Album": "Dirt",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/a/a7/Would%3F_by_Alice_in_Chains_limited_edition_EP_commercial_overseas.jpg"
+    },
+    {
+      "Track name": "There Is a Kingdom (2011 Remastered Edition)",
+      "Artist name": "Nick Cave & The Bad Seeds",
+      "Album": "The Boatman's Call (2011 Remastered Edition)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/3/31/Nick_cave_and_the_bad_seeds-the_boatman%27s_call.jpg"
+    },
+    {
+      "Track name": "Song to the Siren",
+      "Artist name": "This Mortal Coil",
+      "Album": "It'll End in Tears (Remastered)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/3/3e/Nightwish-thesiren.jpg"
+    },
+    {
+      "Track name": "The Man Who Sold the World (2015 Remastered Version)",
+      "Artist name": "David Bowie",
+      "Album": "The Man Who Sold the World (2015 Remastered Version)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/da/MWSTWUS2.jpg"
+    },
+    {
+      "Track name": "Space Oddity",
+      "Artist name": "David Bowie",
+      "Album": "Best of Bowie",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b9/DavidBowiePhilips.jpg"
+    },
+    {
+      "Track name": "Rebel Rebel",
+      "Artist name": "David Bowie",
+      "Album": "Best of Bowie",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b9/DavidBowiePhilips.jpg"
+    },
+    {
+      "Track name": "Ziggy Stardust (2012 Remastered Version)",
+      "Artist name": "David Bowie",
+      "Album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars (2012 Remastered Version)",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/b/b9/DavidBowiePhilips.jpg"
+    },
+    {
+      "Track name": "Rockin' in the Free World",
+      "Artist name": "Neil Young",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Southern Man",
+      "Artist name": "Neil Young",
+      "Album": "After the Gold Rush",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Down by the River",
+      "Artist name": "Neil Young & Crazy Horse",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Alabama",
+      "Artist name": "Neil Young",
+      "Album": "Harvest",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Sugar Mountain",
+      "Artist name": "Neil Young",
+      "Album": "Decade",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Cowgirl in the Sand",
+      "Artist name": "Neil Young",
+      "Album": "Greatest Hits",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/7/77/Neil_Young_-_Greatest_Hits.jpg"
+    },
+    {
+      "Track name": "Hallo Spaceboy",
+      "Artist name": "David Bowie",
+      "Album": "Outside",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/8/8b/Bowie_Hallospaceboy.JPG"
+    }
+  ]
+}

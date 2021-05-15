@@ -1,0 +1,29 @@
+ul {
+    margin: auto;
+    width: 90%;
+}
+
+.album-art {
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+
+li {
+    display: inline-block;
+    width: 220px;
+    height: 250px;
+}
+
+.artist {
+    display: block;
+    font-size: 10px;
+    font-style: italic;
+}
+
+.track {
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 0.5em;
+}
