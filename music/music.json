@@ -1111,6 +1111,14 @@
       "Playlist name": "Once Upon a Time in Vancouver",
       "Type": "Playlist track",
       "Art": "https://upload.wikimedia.org/wikipedia/en/8/8b/Bowie_Hallospaceboy.JPG"
-    }
+    },
+    {
+      "Track name": "Two Princes",
+      "Artist name": "Spin Doctors",
+      "Album": "Pocket Full of Kryptonite",
+      "Playlist name": "Once Upon a Time in Vancouver",
+      "Type": "Playlist track",
+      "Art": "https://upload.wikimedia.org/wikipedia/en/d/dd/TwoPrinces.jpg"
+    },
   ]
 }
