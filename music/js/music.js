@@ -1,5 +1,16 @@
+function shuffleArray(array) {
+    for (var i = array.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+}
+
 $.getJSON("https://raw.githubusercontent.com/danilolekovic/danilolekovic.github.io/main/music/music.json", function(json) {
     const songs = json["items"];
+
+    shuffleArray(songs);
 
     for (var song in songs) {
         var currentSong = songs[song];
