@@ -3,7 +3,7 @@ $.getJSON("https://raw.githubusercontent.com/danilolekovic/danilolekovic.github.
 
     for (var song in songs) {
         var currentSong = songs[song];
-        var name = "" + currentSong["track"]["name"];
+        var name = currentSong["track"]["name"];
 
         if (currentSong["track"]["name"].length > 26) {
             name = currentSong["track"]["name"].substr(0, 26) + "..";
