@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+
+/* From: https://codepen.io/frieseniels/pen/xQQdwy */
+
+body {
+  text-align: center;
+  font-family: 'Boogaloo', cursive;
+  background-color: antiquewhite;
+}
+
+.card {
+    width:20vh;
+    height:20vh;
+    margin:50px;
+    float:left;
+    position:relative;
+  }
+  
+  .card .vinyl {
+    width:98%;
+    height:98%;
+    top:1%;
+    border-radius:50%;
+    background: repeating-radial-gradient( circle at center, black 3px, #111 6px );
+    display:block;
+    position: absolute;
+    left:20px;
+    transition:all 0.3s ease-in;
+  }
+
+  .card .vinyl-red {
+    background: repeating-radial-gradient( circle at center, rgb(174, 27, 27) 3px, #111 6px ) !important;
+  }
+  
+  .card .vinyl .label {
+    width:25%;
+    height:25%;
+    position:absolute;
+    background-color:#ccc;
+    display:flex;
+    left:37.5%;
+    top:37.5%;
+    border-radius:50%;
+    align-items:center;
+    justify-content: center;
+    
+  }
+  
+  .card > .vinyl > .label > .hole {
+    width:10%;
+    height:10%;
+    display:block;
+    
+    border-radius:50%;
+    background-color:#fff;
+  
+   border:1px solid #cecece;
+  }
+  
+  .card .cover {
+    position:absolute;
+    height:100%;
+    width:100%;
+    left:0;
+    top:0;
+    background-color:blue;
+    border-radius: 3px;
+    box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.12),0 1px 5px 0 rgba(0,0,0,0.2);
+  
+  }
+  
+  .card:hover .cover {
+    z-index:3;
+  }
+  
+  .card:hover {
+    cursor:pointer;
+  }
+  .card:hover .vinyl {
+    left:50%;
+    z-index:2;
+    box-shadow:0 16px 24px 2px rgba(0,0,0,0.14),0 6px 30px 5px rgba(0,0,0,0.12),0 8px 10px -7px rgba(0,0,0,0.2);
+  }
+  
+  
+  
