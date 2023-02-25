@@ -26,7 +26,7 @@ jobs:
         run: npm run build && npm run export && touch ./out/.nojekyll
 
       - name: Deploy 🚀
-        uses: danilolekovic/danilolekovic.github.io
+        uses: danilolekovic/danilolekovic.github.io@v4.4.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: public # The branch the action should deploy to.
