@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "next": "latest",
+    "next": "^13.2.4-canary.0",
     "nextra": "^2.0.0-beta.5",
     "nextra-theme-blog": "^2.0.0-beta.5",
     "react": "^18.2.0",
@@ -19,9 +19,16 @@
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.14",
     "@types/react-dom": "^18.0.5",
+    "styled-jsx": "^4.0.1",
     "typescript": "^4.7.4",
-    "styled-jsx": "^4.0.0",
-    "webpack": "5.75.0",
-    "@napi-rs/simple-git-linux-x64-gnu": "^0.1.8"
+    "webpack": "5.75.0"
+  },
+  "overrides": {
+    "nextra": {
+      "@mdx-js/react": "npm:@mdx-js/preact@latest"
+    },
+    "nextra-theme-docs": {
+      "@mdx-js/react": "npm:@mdx-js/preact@latest"
+    }
   }
 }

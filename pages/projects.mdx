@@ -1,0 +1,62 @@
+---
+type: page
+title: Projects
+date: 2023-03-01
+---
+
+# Projects
+
+Here's some of my personal projects -- they are all open source and available on [GitHub ↗ ](https://github.com/danilolekovic), however, not all of them are actively maintained.
+
+## [Personalized & Gamified Learning Platform (Academic Research Project)](https://github.com/danilolekovic/cmpt415-project)
+
+This was my research project that I did at the end of my third year of studies. It was an academic project that involved conducting a literature review and creating a personalized and gamified learning platform for students to learn about the basics of programming.
+
+This project was done under the supervision of Dr. Hazra Imran at Simon Fraser University. The project was written in JavaScript and used React & Firebase.
+
+## [Iode (Programming Language)](https://github.com/danilolekovic/iode)
+
+Iode is a programming language that compiles to JavaScript. There was a time when I was really into programming languages, and Iode was my attempt to create a language that I would like to use.
+At one point, I worked on [rewriting it in the D programming language](https://github.com/danilolekovic/iode-d), but I never finished it. It got as far as generating bytecode though! The JavaScript-target version of Iode still works rather well.
+
+## [nba-salaries (Data Science Experiment)](https://github.com/danilolekovic/nba-salaries)
+
+A personal project that encompasses NBA data scraping, data cleaning, data transformation, and a neural network model.
+
+Something that stood out to me at first, but made more sense when I thought about it was the low(-er) correlation between salary and 3-pointers. When you think about it, players like Jokic + Gobert + Embiid hardly take that many 3-pointers, but are among the highest paid NBA players.
+
+This is the correlation matrix (2021-22 is the salary variable):
+
+![Matrix](https://github.com/danilolekovic/nba-salaries/raw/master/img/correlation.png)
+
+## [kite (HTML Templating Engine)](https://github.com/danilolekovic/kite)
+
+I originally made this when I was 14, back in 2015. I did not know about Angular / React / whatever popular framework was out there, so I made my own templating engine. It was super small (634b) and worked like a charm!
+
+To get it, one would just add this script to their HTML file:
+
+```html
+<script src="https://github.com/danilolekovic/kite.git"></script>
+```
+
+And then have a 'component' file like `test.html`:
+
+```html
+<p>Hello world!</p>
+```
+
+And then, in the HTML file, you would have:
+
+```html
+<kite src="test.html"></kite>
+```
+
+And it would render the component in the HTML file.
+
+## [Pitfall (Game)](https://github.com/danilolekovic/pitfall)
+
+This is a game I made in 2016. It's a clone of the classic Atari game, Pitfall. This was my term project for my game development class in high school. 
+
+![](https://camo.githubusercontent.com/e81fbaff91853c8680b501d4b07bc7a25f42e7b0ca6e7e361ebf52db48efd35b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f302f30362f50697466616c6c2532315f436f7665726172742e706e67)
+
+I used `pygame` and it had all of the features of the original, plus powerups and an in-game shop. 

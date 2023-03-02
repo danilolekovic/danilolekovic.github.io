@@ -6,7 +6,9 @@ const withNextra = require('nextra')({
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // any configs you need
+  "experimental": {
+    "esmExternals": false
+  }
 }
 
 const isProd = process.env.NODE_ENV === 'production'
