@@ -31,7 +31,7 @@ It's clear that in today's NBA, you have to be a great shooter, a great playmake
 
 So what's left to compare? Wins -- the Nuggets are #1 in the Western Conference, while the Milwaukee Bucks are #1 in the Eastern Conference, followed closely by the Boston Celtics. It's clear that these players are MVP candidates for a reason.
 
-Further comparison? That would be on the difficult of competition, and game point differentials. However, it's important to remember that at the end of the day, basketball is a team sport. These players have a tremendous affect on the game, and a great positive impact on their team, but at the end, teams are what win basketball games.
+Further comparison? That would be on the difficulty of competition, and game point differentials. However, it's important to remember that at the end of the day, basketball is a team sport. These players have a tremendous affect on the game, and a great positive impact on their team, but at the end, teams are what win basketball games.
 
 I hope to revisit this at various points in the season. There's still quite a lot of time left, but I don't believe that the standings will change all too much from now and when the regular season concludes.
 
