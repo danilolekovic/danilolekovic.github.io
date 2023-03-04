@@ -17,6 +17,8 @@ Nikola Jokić is an unstoppable force in today's NBA -- if anyone is doubting th
 
 He's averaging a triple-double this season at an absolutely incredible FG% too -- 63.4% at the moment! The shots he takes, he makes. This isn't a case of stat-padding either, as the Denver Nuggets win every time he has a triple-double (25-0).
 
+import Image from 'next/image'
+
 <Image
   src="/images/jokic_career_fgp.png"
   alt="Jokic Career FG% Graph"
