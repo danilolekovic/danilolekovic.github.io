@@ -4,13 +4,15 @@
         <title>Will you be my valentine?</title>
         <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💞</text></svg>">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Open+Sans&family=Oswald&family=Ruwudu&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;700&display=swap');
 
             body {
-                font-family: 'Caprasimo', serif;
+                font-family: 'Jost', sans-serif;
                 text-align: center;
                 color: #333333;
+                font-weight: 300;
             }
 
             #btns a {
@@ -21,14 +23,17 @@
                 border: 1px solid black;
                 border-radius: 5px;
                 font-size: 24px;
+                font-weight: 400;
             }
 
             #btns #btn-yes {
                 background-color: aquamarine;
+                z-index: 9999;
             }
 
             #btns #btn-no {
                 color: red;
+                background-color: rgb(248, 248, 248);
             }
 
             #subheader {
@@ -47,10 +52,10 @@
         <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <img alt="" id="image" src="img/the-other-half-tomato.gif" />
+        <img alt="" id="image" src="img/the-other-half-tomato.gif" class="animate__animated animate__bounceInDown" />
         <h2 id="header-top">Linda,</h2>
         <h1 id="header-bottom">💕 will you be my Valentine? 💕</h1>
-        <h3 id="subheader">💓💓💓</h3>
+        <h3 id="subheader" class="animate__animated animate__rubberBand">💓💓💓</h3>
 
         <div id="btns">
             <a id="btn-yes" href="#" onclick="clickYes()">Yes</a>
@@ -58,12 +63,30 @@
         </div>
 
         <script>
+            const animateCSS = (element, animation, prefix = 'animate__') =>
+                // We create a Promise and return it
+                new Promise((resolve, reject) => {
+                    const animationName = `${prefix}${animation}`;
+                    const node = document.querySelector(element);
+
+                    node.classList.add(`${prefix}animated`, animationName);
+
+                    // When the animation ends, we clean the classes and resolve the Promise
+                    function handleAnimationEnd(event) {
+                    event.stopPropagation();
+                    node.classList.remove(`${prefix}animated`, animationName);
+                    resolve('Animation ended');
+                    }
+
+                    node.addEventListener('animationend', handleAnimationEnd, {once: true});
+                });
+
             let noChanges = [
                 "are you sure?",
                 "pretty please?",
                 "pretty please with a cherry on top?",
                 "tomato tomato?",
-                "😔"
+                "why not? 😔"
             ];
 
             let index = 0;
@@ -72,6 +95,9 @@
                 if ($("#btn-no").is(":disabled")) {
                     return;
                 }
+
+                animateCSS("#btn-no", "wobble");
+                animateCSS("#subheader", "fadeInDown");
 
                 if (index >= noChanges.length - 1) {
                     index = 0;
@@ -87,15 +113,28 @@
                     return;
                 }
 
+                animateCSS("#btn-yes", 'tada');
+
                 $("#image").attr("src", "img/the-other-half-tomato-2.gif");
                 $("#header-top").text("Yay!!");
                 $("#header-bottom").text("🥰 Our first Valentine's Day 🥰");
                 $("#subheader").text("I love you!");
 
+                animateCSS("#image", "fadeInDown");
+                animateCSS("#header-top", "jello");
+                animateCSS("#header-bottom", "swing");
+                animateCSS("#subheader", "heartBeat");
+
                 $("#btn-yes").prop("disabled", true);
                 $("#btn-no").prop("disabled", true);
                 $("#btn-yes").addClass("btn-disabled");
                 $("#btn-no").addClass("btn-disabled");
+
+                animateCSS("#btn-yes", "fadeOutDown");
+                animateCSS("#btn-no", "fadeOutDown");
+
+                $("#btn-yes").fadeOut();
+                $("#btn-no").fadeOut();
             }
         </script>
     </body>
