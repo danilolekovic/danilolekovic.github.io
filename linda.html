@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Will you be my valentine?</title>
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💞</text></svg>">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Open+Sans&family=Oswald&family=Ruwudu&display=swap');
+
+            body {
+                font-family: 'Caprasimo', serif;
+                text-align: center;
+                color: #333333;
+            }
+
+            #btns a {
+                display: inline-block;
+                text-decoration: none;
+                color: #000;
+                padding: 2em;
+                border: 1px solid black;
+                border-radius: 5px;
+                font-size: 24px;
+            }
+
+            #btns #btn-yes {
+                background-color: aquamarine;
+            }
+
+            #btns #btn-no {
+                color: red;
+            }
+
+            #subheader {
+                font-weight: 200;
+            }
+
+            #image {
+                max-width: 200px;
+                max-height: 184px;
+            }
+
+            .btn-disabled {
+                opacity: 0.5;
+            }
+        </style>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <img alt="" id="image" src="img/the-other-half-tomato.gif" />
+        <h2 id="header-top">Linda,</h2>
+        <h1 id="header-bottom">💕 will you be my Valentine? 💕</h1>
+        <h3 id="subheader">💓💓💓</h3>
+
+        <div id="btns">
+            <a id="btn-yes" href="#" onclick="clickYes()">Yes</a>
+            <a id="btn-no" href="#" onclick="clickNo()">No</a>
+        </div>
+
+        <script>
+            let noChanges = [
+                "are you sure?",
+                "pretty please?",
+                "pretty please with a cherry on top?",
+                "tomato tomato?",
+                "😔"
+            ];
+
+            let index = 0;
+
+            function clickNo(e) {
+                if ($("#btn-no").is(":disabled")) {
+                    return;
+                }
+
+                if (index >= noChanges.length - 1) {
+                    index = 0;
+                }
+
+                $("#subheader").text("🙏 " + noChanges[index] + " 🙏");
+
+                index += 1;
+            }
+
+            function clickYes(e) {
+                if ($("#btn-yes").is(":disabled")) {
+                    return;
+                }
+
+                $("#image").attr("src", "img/the-other-half-tomato-2.gif");
+                $("#header-top").text("Yay!!");
+                $("#header-bottom").text("🥰 Our first Valentine's Day 🥰");
+                $("#subheader").text("I love you!");
+
+                $("#btn-yes").prop("disabled", true);
+                $("#btn-no").prop("disabled", true);
+                $("#btn-yes").addClass("btn-disabled");
+                $("#btn-no").addClass("btn-disabled");
+            }
+        </script>
+    </body>
+</html>
